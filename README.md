@@ -1,20 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=100F14,5A189A,240046,7B2CBF&height=180&section=header&text=HIMANK%20SHARMA&fontSize=45&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Flutter%20Dev%20%7C%20Building%20Lunara&descAlignY=55&descSize=16" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=100F14,5A189A,240046,7B2CBF&height=180&section=header&text=HIMANK%20SHARMA&fontSize=45&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20Product%20Developer%20%7C%20Digital%20Storyteller&descAlignY=55&descSize=16" alt="Header Banner" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=2nd+Year+CS+Student;Building+Lunara+-+A+Hormone+Tracker+App;Learning+Flutter+%2B+Supabase+%2B+API+Integration;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Enterprise-Grade+Software+Engineering;Building+High-Performance+Flutter+Apps;Java+%26+Python+Logic+Optimization;Digital+Storytelling+%26+Content+Creation;Progressive+Overload+in+Code+%26+Lifting" alt="Typing SVG" />
   </a>
 
   <br />
-
-  <img src="https://img.shields.io/badge/Status-2nd_Year_CS_Student-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Status" />
+  
+  <img src="https://img.shields.io/badge/Education-CS_%26_Tech_Management-4B0082?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Degree" />
   <img src="https://img.shields.io/badge/Location-Jaipur,_India-240046?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  
+  <br />
+  <br />
 
-  <br /><br />
-
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Online-5A189A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-Contact-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/himanksharma8434-coder"><img src="https://img.shields.io/badge/GitHub-Follow-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-  <br /><br />
+  <br />
+  <br />
 
   <img src="https://komarev.com/ghpvc/?username=himanksharma8434-coder&color=3C096C&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/himanksharma8434-coder?style=for-the-badge&color=5A189A&logo=github" alt="Followers" />
@@ -25,106 +30,118 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
-## ✦ About Me
+## ✦ About
 
-I'm a **2nd year Computer Science student** who genuinely loves building things and figuring out how they work. I don't have years of "enterprise experience" — what I have is curiosity, a willingness to break stuff and fix it, and a habit of actually shipping projects instead of just planning them.
+I am a **Software Engineer and Tech Student** focused on building resilient, scalable systems and premium product experiences. Balancing a rigorous academic focus on Computer Networks, Linux, Python, and Software Management, I bridge the gap between deeply technical backend logic and frictionless user interfaces using **Flutter/Dart**, **Java**, and **Python**.
 
-Right now most of my energy is going into **Lunara**, a female hormone tracking app I'm building solo — from the database schema to the UI to the launch page.
+**Beyond the Screen:**
+I apply the same principles of progressive overload from my engineering to my life. I am a dedicated powerlifter (currently repping 105kg on squats) and an active combat sports athlete focusing on wrestling and striking. I am fueled by a meticulously tracked, high-calorie vegetarian nutrition plan. 
 
-- 🌱 Currently learning Flutter, Supabase, and how to build real production apps (not just tutorials)
-- 🛠️ Building **Lunara** end-to-end as my main project
-- 🎯 Interested in mobile dev, backend/API design, and just generally learning new tech
-- 📚 Still early in the journey — but moving fast and building in public
+I am also a **YouTube Content Creator**, specializing in mythological storytelling, documentaries, and tech-thrillers—handling everything from high-detail thumbnails and music scores to writing scripts with perfectly correct Hindi grammar (like *बार-बार*, complete with the hyphen).
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
 ## ✦ Tech Stack
 
 <div align="center">
+  
+  ### ◦ Languages
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,dart,cpp,c,bash&theme=dark" alt="Languages" />
+  </a>
 
-### Languages & Frameworks
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,cpp,c&theme=dark" alt="Languages" />
-</a>
+  ### ◦ Frontend & Mobile
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,html,css,js,ts&theme=dark" alt="Frontend" />
+  </a>
 
-### Backend & Database
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,nodejs&theme=dark" alt="Backend" />
-</a>
-
-### Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="Tools" />
-</a>
+  ### ◦ Backend, Tools & Production
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,git,github,linux,windows,vscode,figma,pr&theme=dark" alt="Backend and Tools" />
+  </a>
 
 </div>
 
+<br />
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
-## ✦ Featured Project
+## ✦ Featured Projects
 
-<details open>
-  <summary><b>🌸 Lunara — Female Hormone Tracker</b></summary>
+<details>
+  <summary><b>❖ Lunara Ecosystem (Mobile Platform)</b></summary>
   <br/>
-
-  > A mobile app to help track hormonal cycles and patterns, built with a focus on a clean, calming user experience.
-
-  | | |
+  <blockquote>An end-to-end user tracking and community platform engineered to aggregate user inputs, facilitate localized community discussions, and automatically generate high-fidelity reports. Designed with a premium, seamless UI/UX philosophy using Flutter.</blockquote>
+  
+  | Scope | Detail |
   | :--- | :--- |
-  | **Stack** | Flutter, Dart, Supabase, REST API integration |
-  | **What it does** | Tracks hormone/cycle data, syncs with a Supabase backend, presents it through a smooth mobile UI |
-  | **My role** | Solo builder — frontend, backend integration, and design, from scratch |
-  | **Status** | In active development / pre-launch |
-  | **Repo** | [Lunara](https://github.com/himanksharma8434-coder/Lunara) |
+  | **Stack** | Flutter, Dart, Firebase |
+  | **Scale** | Multi-faceted mobile ecosystem targeting active communities |
+  | **Impact** | Automates reporting pipelines and features custom loading animations |
+  | **Repository** | [Private Build](#) |
+</details>
 
+<details>
+  <summary><b>❖ Antigravity IDE: "Get Shit Done" (GSD) Framework</b></summary>
+  <br/>
+  <blockquote>A customized file structure and automated skill framework built directly into the Antigravity IDE. Orchestrates development workflows in a Windows environment.</blockquote>
+  
+  | Scope | Detail |
+  | :--- | :--- |
+  | **Stack** | Python, Windows Internals, IDE Scripting |
+  | **Impact** | Increases daily engineering throughput by standardizing file/task architectures |
+  | **Repository** | [View Source](#) |
+</details>
+
+<details>
+  <summary><b>❖ Java Logic Puzzles & Algorithms</b></summary>
+  <br/>
+  <blockquote>A suite of high-performance Java and Python algorithms built to resolve complex puzzles, optimize mathematical permutations, and handle intricate computer networking concepts.</blockquote>
+  
+  | Scope | Detail |
+  | :--- | :--- |
+  | **Stack** | Java, Python |
+  | **Impact** | Forms the foundation of core logic used in competitive backend routing |
+  | **Repository** | [View Source](#) |
+</details>
+
+<details>
+  <summary><b>❖ Digital Storytelling & Media Production</b></summary>
+  <br/>
+  <blockquote>End-to-end production of mythological, documentary, and tech-thriller video content. Involves deep research, scriptwriting, pacing, and visual design.</blockquote>
+  
+  | Scope | Detail |
+  | :--- | :--- |
+  | **Focus** | Storytelling, Graphic Design (Thumbnails), Audio Scoring |
+  | **Impact** | Builds engaging narratives combining history, mystery, and technology |
 </details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
-## ✦ GitHub Analytics
+## ✦ Experience
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanksharma8434-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E0AAFF&icon_color=9D4EDD&text_color=A981D4" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanksharma8434-coder&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=E0AAFF" width="48%" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanksharma8434-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E0AAFF&text_color=A981D4" width="60%" alt="Top Languages" />
-</div>
-
-<br />
+### Software Engineering Virtual Experience
+**Deloitte (via Forage)** | *Completed Feb 2026*
+- Engineered solutions simulating enterprise-grade infrastructure requirements.
+- Architected data workflows and integrated robust security postures aligned with Deloitte’s technical management standards.
+- Successfully earned certification by delivering all technical modules.
+- **Skills:** `Software Architecture`, `Python`, `Technical Management`, `Systems Engineering`
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
-## ✦ Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanksharma8434-coder&theme=tokyo-night&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=E0AAFF&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
-
-## ✦ Right Now
+## ✦ Current Focus
 
 ```yaml
-Currently:
-  Building:
-    - "Lunara - hormone tracker app (Flutter + Supabase)"
+Current_State:
   Learning:
-    - "Flutter/Dart in depth"
-    - "Supabase & backend/API design"
-    - "Core CS fundamentals (college coursework)"
-  Interested_In:
-    - "Mobile app development"
-    - "Backend engineering"
-    - "Just generally building and shipping things"
-  Open_To:
-    - "Internships"
-    - "Collaborations on interesting projects"
-    - "Learning from anyone who'll teach me something new"
-```
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
-  <sub>Still 2nd year. Still learning. Still shipping. 🚀</sub>
-</div>
+    - "Advanced Python & Java Algorithms"
+    - "Linux Systems & Computer Networks"
+    - "Software Management Principles"
+  Building:
+    - "Lunara Ecosystem - Flutter App Architecture"
+    - "GSD IDE Automation & Scripting Environments"
+    - "Tech Thriller & Mythology YouTube Scripts"
+  Training:
+    - "Progressive Overload in Powerlifting (Squat/Bench/Deadlift)"
+    - "Combat Sports: 5x/week Wrestling & Striking"
+    - "High-Performance Vegetarian Nutrition (MacroFactor)"
