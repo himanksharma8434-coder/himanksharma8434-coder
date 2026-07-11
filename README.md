@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=100F14,5A189A,240046,7B2CBF&height=180&section=header&text=HIMANK%20SHARMA&fontSize=45&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Flutter%20Dev%20%7C%20Building%20Lunara&descAlignY=55&descSize=16" alt="Header Banner" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=2nd+Year+CS+Student;Building+Lunara+-+A+Hormone+Tracker+App;Learning+Flutter+%2B+Supabase+%2B+API+Integration;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=2nd+Year+CS+Student;Building+Lunara+-+A+Hormone+Tracker+App;Learning+Real+%2B+World+%2B+Skills+%2B+API+Integration;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
   </a>
 
   <br />
