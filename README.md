@@ -31,7 +31,7 @@ I'm a **2nd year Computer Science student** who genuinely loves building things 
 
 Right now most of my energy is going into **Lunara**, a female hormone tracking app I'm building solo — from the database schema to the UI to the launch page.
 
-- 🌱 Currently learning Flutter, Supabase, and how to build real production apps (not just tutorials)
+- 🌱 Currently Learning Real World skills
 - 🛠️ Building **Lunara** end-to-end as my main project
 - 🎯 Interested in mobile dev, backend/API design, and just generally learning new tech
 - 📚 Still early in the journey — but moving fast and building in public
