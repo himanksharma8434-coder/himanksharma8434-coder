@@ -76,9 +76,7 @@ Right now most of my energy is going into **Lunara**, a female hormone tracking 
   | **Status** | In active development / pre-launch |
   | **Repo** | [Lunara](https://github.com/himanksharma8434-coder/Lunara) |
 
-</details>
 
-<details open>
   <summary><b> BlueMsg — No Network Message</b></summary>
   <br/>
 
@@ -89,7 +87,7 @@ Right now most of my energy is going into **Lunara**, a female hormone tracking 
   | **What it does** | Sends messages without internet |
   | **My role** | Solo builder — frontend, backend integration, and design, from scratch |
   | **Status** | In active development / pre-launch |
-  | **Repo** | [Lunara](https://github.com/himanksharma8434-coder/Bluemsg |
+  | **Repo** | [BlueMsg](https://github.com/himanksharma8434-coder/Bluemsg) |
 
 </details>
 
@@ -106,7 +104,6 @@ Right now most of my energy is going into **Lunara**, a female hormone tracking 
 
 <br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
 ## ✦ Contribution Activity
 
@@ -114,7 +111,7 @@ Right now most of my energy is going into **Lunara**, a female hormone tracking 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanksharma8434-coder&theme=tokyo-night&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=E0AAFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+
 
 ## ✦ Right Now
 
