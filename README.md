@@ -23,7 +23,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+
 
 ## ✦ About Me
 
@@ -36,7 +36,7 @@ Right now most of my energy is going into **Lunara**, a female hormone tracking 
 - 🎯 Interested in mobile dev, backend/API design, and just generally learning new tech
 - 📚 Still early in the journey — but moving fast and building in public
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+
 
 ## ✦ Tech Stack
 
@@ -59,7 +59,6 @@ Right now most of my energy is going into **Lunara**, a female hormone tracking 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
 ## ✦ Featured Project
 
@@ -79,7 +78,22 @@ Right now most of my energy is going into **Lunara**, a female hormone tracking 
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<details open>
+  <summary><b> BlueMsg — No Network Message</b></summary>
+  <br/>
+
+  > A mobile app to send messages in natural disasters without internet.
+  | | |
+  | :--- | :--- |
+  | **Stack** | Flutter, Dart, REST API integration |
+  | **What it does** | Sends messages without internet |
+  | **My role** | Solo builder — frontend, backend integration, and design, from scratch |
+  | **Status** | In active development / pre-launch |
+  | **Repo** | [Lunara](https://github.com/himanksharma8434-coder/Bluemsg |
+
+</details>
+
+
 
 ## ✦ GitHub Analytics
 
