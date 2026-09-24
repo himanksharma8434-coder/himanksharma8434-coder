@@ -23,20 +23,16 @@
 
 <br />
 
-
-
 ## ✦ About Me
 
 I'm a **2nd year Computer Science student** who genuinely loves building things and figuring out how they work. I don't have years of "enterprise experience" — what I have is curiosity, a willingness to break stuff and fix it, and a habit of actually shipping projects instead of just planning them.
 
 Right now most of my energy is going into **Lunara**, a female hormone tracking app I'm building solo — from the database schema to the UI to the launch page.
 
-- 🌱 Currently Learning Real World skills
+- 🌱 Currently learning real-world skills
 - 🛠️ Building **Lunara** end-to-end as my main project
 - 🎯 Interested in mobile dev, backend/API design, and just generally learning new tech
 - 📚 Still early in the journey — but moving fast and building in public
-
-
 
 ## ✦ Tech Stack
 
@@ -59,8 +55,7 @@ Right now most of my energy is going into **Lunara**, a female hormone tracking 
 
 </div>
 
-
-## ✦ Featured Project
+## ✦ Featured Projects
 
 <details open>
   <summary><b>🌸 Lunara — Female Hormone Tracker</b></summary>
@@ -76,11 +71,14 @@ Right now most of my energy is going into **Lunara**, a female hormone tracking 
   | **Status** | In active development / pre-launch |
   | **Repo** | [Lunara](https://github.com/himanksharma8434-coder/Lunara) |
 
+</details>
 
-  <summary><b> BlueMsg — No Network Message</b></summary>
+<details>
+  <summary><b>📡 BlueMsg — No Network Messaging</b></summary>
   <br/>
 
   > A mobile app to send messages in natural disasters without internet.
+
   | | |
   | :--- | :--- |
   | **Stack** | Flutter, Dart, REST API integration |
@@ -91,26 +89,16 @@ Right now most of my energy is going into **Lunara**, a female hormone tracking 
 
 </details>
 
-
-
 ## ✦ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanksharma8434-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E0AAFF&icon_color=9D4EDD&text_color=A981D4" width="48%" alt="GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanksharma8434-coder&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=E0AAFF" width="48%" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanksharma8434-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E0AAFF&text_color=A981D4" width="60%" alt="Top Languages" />
+
 </div>
 
 <br />
-
-
-## ✦ Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanksharma8434-coder&theme=tokyo-night&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=E0AAFF&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
 
 
 ## ✦ Right Now
@@ -119,6 +107,8 @@ Right now most of my energy is going into **Lunara**, a female hormone tracking 
 Currently:
   Building:
     - "Lunara - hormone tracker app (Flutter + Supabase)"
+    - "BlueMsg - No Network message sender"
+    - "Recove - Athletic Recovery app"
   Learning:
     - "Flutter/Dart in depth"
     - "Supabase & backend/API design"
@@ -136,6 +126,5 @@ Currently:
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
   <sub>Still 2nd year. Still learning. Still shipping. 🚀</sub>
 </div>
