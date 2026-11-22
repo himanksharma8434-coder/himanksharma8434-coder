@@ -29,11 +29,11 @@ I'm a **2nd year Computer Science student** and independent mobile developer who
 
 Right now most of my energy goes into **Lunara**, a female hormone tracking app I'm building solo, from the database schema to the UI to the launch page.
 
-- 🛠️ Building **Lunara** end-to-end as my main project
-- 📱 Shipping offline-first Flutter apps with Clean Architecture and Cubit/BLoC
-- 🎯 Interested in mobile dev, backend/API design, and learning new tech
-- 🏗️ Long-term goal: build my own development agency
-- 📚 Still early in the journey, but moving fast and building in public
+-  Building **Lunara** end-to-end as my main project
+-  Shipping offline-first Flutter apps with Clean Architecture and Cubit/BLoC
+-  Interested in mobile dev, backend/API design, and learning new tech
+-  Long-term goal: build my own development agency
+-  Still early in the journey, but moving fast and building in public
 
 ## ✦ Tech Stack
 
@@ -59,7 +59,7 @@ Right now most of my energy goes into **Lunara**, a female hormone tracking app 
 ## ✦ Featured Projects
 
 <details open>
-  <summary><b>🌸 Lunara — Female Hormone Tracker</b></summary>
+  <summary><b> Lunara — Female Hormone Tracker</b></summary>
   <br/>
 
   > A mobile app to help track hormonal cycles and patterns, built with a focus on a clean, calming user experience.
@@ -75,7 +75,7 @@ Right now most of my energy goes into **Lunara**, a female hormone tracking app 
 </details>
 
 <details open>
-  <summary><b>📡 BlueMsg — No-Network Messaging</b></summary>
+  <summary><b> BlueMsg — No-Network Messaging</b></summary>
   <br/>
 
   > A mobile app for sending messages during natural disasters, with no internet required.
@@ -91,7 +91,7 @@ Right now most of my energy goes into **Lunara**, a female hormone tracking app 
 </details>
 
 <details open>
-  <summary><b>🏃 Recova — Athlete Recovery</b></summary>
+  <summary><b> Recova — Athlete Recovery</b></summary>
   <br/>
 
   > A mobile app that reports on an athlete's recovery and related insights by analysing data from smart wearables.
